@@ -1,0 +1,218 @@
+## ten szablon MUSI być synchronizowany z https://code.launchpad.net/~tzn/uwn-pl/trunk
+||<tablestyle="float:right; font-size: 0.9em; width:40%; background:#F1F1ED; margin: 0 0 1em 1em;" style="padding:0.5em;">'''Zawartość'''<<BR>><<TableOfContents>>||
+
+{{attachment:newspaper-icon.jpg}}
+
+{{{
+PRACE W TRAKCIE
+}}}
+
+## Edit the following to include issue number, date info, and a short list
+## of the top articles in this release.
+
+Witaj w ## numerze Cotygodniowego Biuletynu Ubuntu, obejmującym wydarzenia od DATA do DATA. W tym numerze m.in. ...
+
+
+== Tłumaczenia UWN ==
+
+ * Potrzebujemy Twojej pomocy! Jeśli jesteś zainteresowana/y pomocą w tłumaczeniu UWN, odwiedź https://wiki.ubuntu.com/UbuntuWeeklyNewsletter/PL
+
+== W tym numerze ==
+
+ * Nowi członkowie ubuntu
+ * Statystyki Ubuntu
+ * W pracie i blogosferze
+ * Nadchodzące wydarzenia i spotkania
+ * Aktualizacje i poprawki bezpieczeństwa
+
+== Informacje z międzynarodowej społeczności Ubuntu ==
+
+## Sformatuja każdy artykuł jako podsekcję używając  ===
+## Umieść tutaj duże artykuły, które nie pasują gdzie indziej
+
+== Statystyki Ubuntu ==
+=== Statystyki błędów ===
+
+## Zebranie statystyk błędów zabiera jedynie sekundę.
+## Dane znajdziesz na http://launchpad.net/distros/ubuntu/+bugs
+## Sprawdź poprzedni UWN aby obliczyć różnicę
+## UWAGA: Statystyki powinny zostać zebrane W DNIU WYDANIA oryginalnego UWN. Najlepiej je skopiować.
+
+    * Otwarte (#) +/- # w ciągu ostatniego tygodnia
+    * Krytyczne (#) +/- # w ciągu ostatniego tygodnia
+    * Niepotwierdzone (#) +/- # w ciągu ostatniego tygodnia
+    * Nieprzydzielone (#) +/- # w ciągu ostatniego tygodnia
+    * Wszystkie kiedykolwiek zgłoszone błędy (#)  +/- # w ciągu ostatniego tygodnia
+
+Jak zawsze Zespół ds. błędów (Bug Squad) potrzebuje więcej rąk do pracy. Jeśli chcesz pomóc odwiedź https://wiki.ubuntu.com/BugSquad
+
+=== Niesławne błędy ===
+
+## Usuń sekcję jeśli nie ma niesławnych/zabawnych błędów w danym tygodniu
+
+=== Statystyki tłumaczeń Hardy ===
+
+## Translation stats only take a second to do.
+## Data can be found at: https://translations.launchpad.net/ubuntu/hardy (or current release)
+## See last week's UWN to calculate change over last week.
+## NOTE: To be done ONLY on the release date of the UWN (or latter if late).
+## List the top 5 untranslated languages.
+
+ 1. Język (#) +/- # w ciągu ostatniego tygodnia
+ 2. Język (#) +/- # w ciągu ostatniego tygodnia
+ 3. Język (#) +/- # w ciągu ostatniego tygodnia
+ 4. Język (#) +/- # w ciągu ostatniego tygodnia
+ 5. Język (#) +/- # w ciągu ostatniego tygodnia
+ x. Polski (#) +/- # w ciągu ostatniego tygodnia
+
+Pozostałe do przetłumaczenia frazy w Ubuntu 8.04 "Hardy Heron," zobacz więcej na https://translations.launchpad.net/ubuntu/intrepid/
+
+=== Statystyki błędów programu 5-a-day ===
+
+5 najbardziej aktywnych uczestników w ciągu ostatnich 7 dni
+
+5 najbardziej aktywnych zespołów w ciągu ostatnich 7 dni
+
+Statystyki 5-A-Day są dostarczane przez Daniela Holbacha. Zobacz http://daniel.holba.ch/5-a-day-stats/
+
+
+== Wiadomości ze świata LoCo ==
+
+## Sformatuja każdy artykuł jako podsekcję używając  ===
+## Add notes about new locoteams, changed ones, meetings, etc.
+
+== Nowe w Hardy Heron ==
+
+## This list is pulled by Corey Burger and dumped here in raw form for parsing.
+## Choose a something you wish to write about a write a short piece about what
+## has changed since the last version in Ubuntu. This might mean several upstream
+## releases. To find this data, use the changelog in the package and look on the web.
+## If you cannot find a usable changelog, simply drop that package. Try and group packages
+## together logically, such as X, the kernel or GNOME.
+
+## After all the package sections are written, organize them logically, based
+## on desktop or server, GNOME, KDE, or Xfce4, etc.
+
+## Sometimes bigger changes, such as a new development policy or a major new
+## thing will be mentioned under a seperate heading
+
+== Wiadomości z Launchpad ==
+
+
+== Wiadomości z forów Ubuntu ==
+
+## This section is provided to include any interesting updates from the Ubuntu Forums.
+
+== Wiadomości z polskiego forum Ubuntu ==
+
+== W prasie ==
+
+## Things Ubuntu-specific are great, but general Linux goings-on are good to, to an extent.
+## We don't need to replicate Digg & Slashdot, but certain things are of special interest.
+## Just pulling one example from my memory, the story about Indiana schools piloting
+## a classroom Linux deployment, a portion of which was Ubuntu, are good.  Ubuntu
+## release reviews are also common items in this section.
+
+== W blogosferze ==
+
+## In this section we want to highlight the blogs that are exceptionally well-written and in-depth.
+## Blogs tend to make it easy for low-quality content, so be extra careful on what goes here.
+## We should encourage bloggers to spread the word, so this section might be a good way to do so.
+
+== Inne informacje ==
+
+## Any news or links that don't fit neatly into other sections.
+
+== Podsumowanie spotkań ==
+
+## Any news from any Ubuntu Team listed here: https://wiki.ubuntu.com/TeamReports/January2008   be sure to udate to current month.
+
+== Nadchodzące wydarzenia i spotkania ==
+
+## Data pulled from mailing lists and http://fridge.ubuntu.com
+## Either use bullets or sub-headings to organize content.
+## Format:
+##
+## === Friday, March 16, 2007 ===
+##
+## ==== MOTU Meeting ====
+##  * Start: 10:00
+##  * End: 12:00
+##  * Location: IRC channel #ubuntu-meeting
+##  * Agenda: https://wiki.ubuntu.com/MOTU/Meetings
+
+== Społeczność ==
+
+## Specification Spotlight
+
+## This section highlights an approved specification that is going to be implemented
+## in Feisty. See the list at https://blueprints.launchpad.net/distros/ubuntu/feisty
+## In general, choose user visible features, as the audience are mostly end users.
+## Also try and group specs together that belong together, such as network or X.
+
+## Feature of the week
+
+## Pick a feature, piece of software, or package that you'd like to feature.
+## Give a brief description, whats so special about it, who works on it,
+## where to find it/install it, etc.
+
+## Team of the week
+
+## Pick a team (a ubuntu team) that you'd like to feature.
+## Give a brief description of the team, what they work on, what they've
+## accomplished, who is involved, how to get involved/join, etc.
+
+== Aktualizacje i poprawki bezpieczeństwa 6.06, 7.04, 7.10, and 8.04 ==
+
+=== Poprawki bezpieczeństwa ===
+
+=== Aktualizacje Ubuntu 6.06  ===
+
+=== Aktualizacje Ubuntu 7.10  ===
+
+=== Aktualizacje Ubuntu 8.04  ===
+
+=== Aktualizacje Ubuntu 8.10 ===
+
+== UWN #: prawie się udało ==
+
+## Articles that should have made it into this release but have been deferred should be listed here.
+## Delete if unnecessary.
+
+== Archiwum ==
+
+Starsze wydania Cotygodniowego Biuletynu Ubuntu znajdziesz na https://wiki.ubuntu.com/UbuntuWeeklyNewsletter/PL
+
+== Więcej wiadomości ze świata Ubuntu ==
+
+Więcej anglojęzycznych wiadomości ze świata Ubuntu znajdziesz na
+
+ http://www.ubuntu.com/news
+
+oraz
+
+ http://fridge.ubuntu.com/
+
+== Podsumowanie ==
+
+Dziękujemy za zainteresowanie Cotygodniowym Biuletynem Ubuntu.
+
+Do zobaczenia w przyszłym tygodniu!
+
+== Podziękowania ==
+
+Polskie wydanie Cotygodniowego Biuletynu Ubuntu jest przygotowywane przez:
+
+## Lista w porządku chronologicznym. Dopisz się tutaj, jeśli brałeś udział w przygotowaniu UWN.
+
+ * Tomasz 'Zen' Napierała
+
+== Słownik pojęć ==
+
+## Common acronyms
+
+== Uwagi i opinie ==
+
+Ten dokument jest przygotowywany przez Polski Zespół UWN. Jeśli nasz ciekawą informację lub sugestię do kolejnego numeru, dołącz do naszej listy dystrybucyjnej na https://launchpad.net/~uwn-pl (musisz posiadać konto w Launchpad).
+Wszelkie pomysły możesz również zamieścić na naszej wiki https://wiki.ubuntu.com/UbuntuWeeklyNewsletter/PL
+Jeśli jesteś zainteresowany współtworzeniem angielskiej wersji UWN sprawdź https://wiki.ubuntu.com/UbuntuWeeklyNewsletter
